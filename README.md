@@ -46,6 +46,14 @@ FIXME
 
 ### Applied Conservation
 
+Applied Conservation provides consulting and facilitation services to public agencies, nonprofit conservation organizations, private landowners and other partners in conservation action planning, landscape conservation forecasting, and conservation strategy implementation. It was founded by Greg Low, a long term employee of the Nature Conservatory and enthusiastic advocate for nature conservation.
+
+Greg's life work has been dedicated towards the development and refinement of Conservation Action Planning (CAP)-- a process for identifying and measuring the effectiveness of environmental conservation strategies. CAP was codified into an application that melded Excel and Visual Basic to provide a somewhat automated way of planning, implementing and measuring success for large landscapes and other conservation projects.
+
+The goal of this project is to build a software product that will "democratize" the use of CAP for environmental protection. The complexity and lack of user-friendly, intuitive design of current CAP software means that the CAP process is not accessible to people who have not been extensively trained by experts like Greg. We will be building a web-based application that will direct users to provide accurate data input, then use those inputs to provide an accurate and useful model/scorecard of effectiveness of conservation efforts. 
+
+This project will likely involve a lot of complex back-end logic to produce the scorecard and may involve a somewhat unlikely level of front-end effort for the gathering of user inputs. 
+
 * Github: https://github.com/orgs/rubyforgood/teams/applied-conservation/repositories
 * Slack: #applied-conservation
 
