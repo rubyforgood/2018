@@ -24,4 +24,4 @@ We'll be partnering with Sweet Cheeks Diaper Bank as well as PDX Diaper Bank to 
 The New Sanctuary Coalition is a network of congregations, organizations, and individuals standing publicly in solidarity with families and communities resisting detention and deportation. NSC's accompaniment program pairs undocumented people with a group of trained volunteers to accompany them to their immigration hearings and check-ins with ICE. NSC holds pro-se clinics, where undocumented people work with trained volunteers and lawyers to prepare documents (asylum applications, juvenile visas, etc.) to fight their immigration case.  NSC works with detained immigrants across the US and their families to fight for their release.  We'll be working on the internal database software that facilitates these (and more) NSC programs and allows them to operate at increasing scale.
 
 * GitHub repo: https://github.com/rubyforgood/new_sanctuary_asylum
-* Slack: new-sanctuary
+* Slack: #new-sanctuary
