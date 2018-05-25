@@ -63,10 +63,10 @@ This project will likely involve a lot of complex back-end logic to produce the 
 * Github: https://github.com/orgs/rubyforgood/teams/applied-conservation/repositories
 * Slack: #applied-conservation
 
-### Tabula Rusa
+### Cartouche
 
-* Github: https://github.com/orgs/rubyforgood/teams/tabula-rusa/repositories
-* Slack: #tabula-rusa
+* Github: https://github.com/orgs/rubyforgood/teams/cartouche/repositories
+* Slack: #cartouche
 
 ### Open Street Maps
 
