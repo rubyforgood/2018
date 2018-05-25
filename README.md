@@ -63,10 +63,16 @@ This project will likely involve a lot of complex back-end logic to produce the 
 * Github: https://github.com/orgs/rubyforgood/teams/applied-conservation/repositories
 * Slack: #applied-conservation
 
-### Tabula Rusa
+### Cartouche
 
-* Github: https://github.com/orgs/rubyforgood/teams/tabula-rusa/repositories
-* Slack: #tabula-rusa
+Cartouche is a Docker/docker-compose based wrapper around the OpenStreetMap.com web stack, designed to make it easy for developers to get up and running for local development.  It incorporates several core OSM libraries as Git submodules, which allows for direct contribution of features and enhancements directly to their upstream (parent) projects.
+
+The projects currently included in this stack are: [cgimap](https://github.com/zerebubuth/openstreetmap-cgimap), [libpgosm](https://github.com/pnorman/libpgosm), [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website), and [osmosis](https://github.com/openstreetmap/osmosis).
+
+Issues in this project span from beginner-friendly work on documentation and configuration options all the way up to performance tweaking of importing a map of the entire planet.
+
+* Github: https://github.com/orgs/rubyforgood/teams/cartouche/repositories
+* Slack: #cartouche
 
 ### Open Street Maps
 
