@@ -71,7 +71,7 @@ The projects currently included in this stack are: [cgimap](https://github.com/z
 
 Issues in this project span from beginner-friendly work on documentation and configuration options all the way up to performance tweaking of importing a map of the entire planet.
 
-* Github: https://github.com/orgs/rubyforgood/teams/cartouche/repositories
+* Github: https://github.com/mapbox/cartouche
 * Slack: #cartouche
 
 ### Open Street Maps
